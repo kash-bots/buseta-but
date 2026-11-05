@@ -68,3 +68,14 @@ backups/
 
 # Downloads temporários do KYARA
 /tmp/kyara-downloads/
+
+# Dados privados
+.env.*
+*.pem
+*.key
+credentials/
+dados/auth/
+dados/database/grupos/
+
+# Arquivos locais
+.DS_Store

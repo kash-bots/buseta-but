@@ -1,12 +1,12 @@
 {
-  "nomedono": "baki",
-  "numerodono": "5584987480834",
-  "nomebot": "BOT-KYARA",
-  "prefixo": "/",
-  "lidowner": "28145558278209@lid",
+  "nomedono": "ze buseta",
+  "numerodono": "5585921636865",
+  "nomebot": "buseta-but",
+  "prefixo": ".",
   "github_ofc": "https://github.com/bakizinho/BKkyara-",
   "autor": "baki",
   "repositorio": "BKkyara-",
+  "modoaluguel": false,
   "WA_WEB_VERSION": {
     "aviso": "Não mexa aqui, pode afetar o funcionamento do BOT.",
     "value": [
